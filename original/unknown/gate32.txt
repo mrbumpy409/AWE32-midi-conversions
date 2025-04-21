@@ -1,0 +1,15 @@
+README.TXT
+==========
+
+
+Before you continue ...
+
+1. Make a temp directory for the Midi and SoundFont file.
+
+2. Activate your AWE32 control panel.
+
+3. Load your SoundFont into user bank 1 before playing the Midi file.
+
+
+
+			--- END ---
